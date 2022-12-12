@@ -1,6 +1,6 @@
 # My Reading Journal
 
-Hi guys! My name is Ryan...
+Hi guys! My name is Ryan. Military for 16 years, NAVY to be precise. Served 16 years overseas. 15 years in Japan and 1 year in Bahrain. Fun fact about me, I used to be a Radio Jock. Fun times. Now I am here learning new skills to become successful and I believe Code Fellows is the right path to be.
 
 Link to [my github portfolio](https://github.com/Ryanb021)
 
@@ -8,7 +8,7 @@ What growth mindset is to me no matter what challenges, circumstances, difficult
 
 ## 3 Reminders to stay in a growth mindset:
 
-1. Reminder 1
-2. Reminder 2
-3. Reminder 3
+1. Family
+2. Get back up when you fall down. Never give up.
+3. Avoid distractions. Stay in the path of your goals. Reach it!
 
