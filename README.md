@@ -9,6 +9,8 @@ What growth mindset is to me no matter what challenges, circumstances, difficult
 ## 3 Reminders to stay in a growth mindset:
 
 *1. Family*
+
 *2. Get back up when you fall down. Never give up.*
+
 *3. Avoid distractions. Stay in the path of your goals. Reach it!*
 
