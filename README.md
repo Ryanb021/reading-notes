@@ -2,7 +2,7 @@
 
 Hi guys! My name is Ryan...
 
-Link to my github portfolio
+Link to [my github portfolio](https://ryanb021.github.com)
 
 What growth mindset is to me
 
