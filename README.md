@@ -1,5 +1,8 @@
 # My Reading Journal
 
+![ryan](https://user-images.githubusercontent.com/120413183/207512966-b16be860-3e7a-499c-9e4f-a3362ef9db76.jpg)
+
+
 Hi guys! My name is Ryan. Military for 16 years, NAVY to be precise. Served 16 years overseas. 15 years in Japan and 1 year in Bahrain. Fun fact about me, I used to be a Radio Jock. Fun times. Now I am here learning new skills to become successful and I believe Code Fellows is the right path to be.
 
 ## 3 Strengths
