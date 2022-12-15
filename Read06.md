@@ -27,6 +27,8 @@ document.write("Hello ", name);
  
 </script>
 
+
+
 Sample Confirm
 
 <script>
@@ -35,5 +37,7 @@ var name = prompt("Please correct your e-mail address:", "foo@bar.co");
 document.write("Your e-mail address is ", name);
  
 </script>
+
+
 
 [Source](https://code-maven.com/javascript-input-with-prompt-and-confirm)
