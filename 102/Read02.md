@@ -1,20 +1,8 @@
-Markdown as I have learned is a great tool for programmers to quickly write structured content for the web, as stated below from an article.
+# The Coder's Computer
+A topic that is an important learning resource specially for individuals who are just starting to learn the field of programming. It basically explains that the command line interface as one of the main advantage as a tool for programmers as it allows users to type in commands that will generate immediate results. Once you get familiar with the command lines program, it will easily be a quick and simple method in completing and achieving tasks required.
 
-## What is Markdown
+Base on my experience, I guess I was a bit challenged in installing all the important programs using the terminal. There were moments taht I was really frustrated as I have followed the steps carefully but still did not get the result that was supposed to generate. Multiple times I had to re-do an installation, finish the entire installation only to find out at the verification part that most of it did not successfully install. Made me think that staying up late with all that effort was for nothing. But I realized that with all those things I've gone through, I was learning. I am failing but I was learning. And I know eventually it will only make me better. I also thought that this will be easy as I have learned Python before, only to find out this is a different challenge. I was frustrated, and still frustrated. But I am learning, and also late for assignment submission.
 
-Markdown is a plain text formatting syntax for writers. It allows you to quickly write structured content for the web, and have it seamlessly converted to clean, structured HTML.
+## Things I want to know more:
 
-Back in 2004, Apple pundit John Gruber came up with the idea after becoming frustrated by writing long, laborious HTML tags to properly format his content. He devised a simple writing system which would make web based documents both easier to write, and easier to read in their raw state.
-[CTTO, Source:](https://ghost.org/changelog/markdown/)
-
-[The Ultimate Guide to Markdown](https://ghost.org/changelog/markdown/)
-
-## Samples from the article
-
-The *quick* brown fox, jumped **over** the lazy [dog](https://en.wikipedia.org/wiki/Dog).
-
-![m'lady](https://i.imgur.com/v8IVDka.jpg)
-
-## Things I want to know more about
-
-- More markdown shortcuts?
+More shortcuts?
