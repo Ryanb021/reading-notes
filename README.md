@@ -21,8 +21,6 @@ Hi guys! My name is Ryan. Military for 16 years, NAVY to be precise. Served 16 y
 
 *3. Patience* - Highly need improvement as sometimes I don't have the patience to wait for results if I am tasked to meet deadlines or finish an assigned project. I get frustrated easily if I hit a dead end, being stalled, or anything that will affect my focus on successfully accomplishing the mission.
 
-
-
 *Link to [my github portfolio](https://github.com/Ryanb021)*
 
 What growth mindset is to me no matter what challenges, circumstances, difficulties, just keep pushing. Set your goal and stay in that path. Push through, get back up. Keep learning from every mistakes and failures. You will reach your goal. You will be successful!
@@ -35,3 +33,34 @@ What growth mindset is to me no matter what challenges, circumstances, difficult
 
 *3. Avoid distractions. Stay in the path of your goals. Reach it!*
 
+## Table of Contents
+
+## Code 102 Reading Notes
+
+- [Class 1 Notes](https://ryanb021.github.io/reading-notes/102/Read01.md)
+- [Class 2 Notes](https://ryanb021.github.io/reading-notes/102/Read02.md)
+- [Class 3 Notes](https://ryanb021.github.io/reading-notes/102/Read03.md)
+- [Class 4 Notes](https://ryanb021.github.io/reading-notes/102/Read04.md)
+- [Class 5 Notes](https://ryanb021.github.io/reading-notes/102/Read05.md)
+- [Class 6 Notes](https://ryanb021.github.io/reading-notes/102/Read06.md)
+- [Class 7 Notes](https://ryanb021.github.io/reading-notes/102/Read07.md)
+- [Class 8 Notes](https://ryanb021.github.io/reading-notes/102/Read08.md)
+
+
+## Code 201 Reading Notes
+
+- [Class 1 Notes](https://ryanb021.github.io/reading-notes/201/Read01.md)
+- [Class 2 Notes](https://ryanb021.github.io/reading-notes/201/Read02.md)
+- [Class 3 Notes](https://ryanb021.github.io/reading-notes/201/Read03.md)
+- [Class 4 Notes](https://ryanb021.github.io/reading-notes/201/Read04.md)
+- [Class 5 Notes](https://ryanb021.github.io/reading-notes/201/Read05.md)
+- [Class 6 Notes](https://ryanb021.github.io/reading-notes/201/Read06.md)
+- [Class 7 Notes](https://ryanb021.github.io/reading-notes/201/Read07.md)
+- [Class 8 Notes](https://ryanb021.github.io/reading-notes/201/Read08.md)
+- [Class 9 Notes](https://ryanb021.github.io/reading-notes/201/Read09.md)
+- [Class 10 Notes](https://ryanb021.github.io/reading-notes/201/Read10.md)
+- [Class 11 Notes](https://ryanb021.github.io/reading-notes/201/Read11.md)
+- [Class 12 Notes](https://ryanb021.github.io/reading-notes/201/Read12.md)
+- [Class 13 Notes](https://ryanb021.github.io/reading-notes/201/Read13.md)
+- [Class 14 Notes](https://ryanb021.github.io/reading-notes/201/Read14.md)
+- [Class 15 Notes](https://ryanb021.github.io/reading-notes/201/Read15.md)
