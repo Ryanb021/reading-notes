@@ -1,5 +1,4 @@
 
-A JavaScript function is executed when "something" invokes it (calls it).
 
 Example
 // Function to compute the product of p1 and p2
