@@ -1,2 +1,2 @@
 
-# Class 1
+# Introductory HTML and Javascript
