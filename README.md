@@ -35,7 +35,7 @@ What growth mindset is to me no matter what challenges, circumstances, difficult
 
 ## Table of Contents
 
-## Code 102 Reading Notes
+## Code 102 Reading Notes = Intro to Software Development
 
 - [Class 1 Notes](https://ryanb021.github.io/reading-notes/102/Read01.md)
 - [Class 2 Notes](https://ryanb021.github.io/reading-notes/102/Read02.md)
@@ -47,7 +47,7 @@ What growth mindset is to me no matter what challenges, circumstances, difficult
 - [Class 8 Notes](https://ryanb021.github.io/reading-notes/102/Read08.md)
 
 
-## Code 201 Reading Notes
+## Code 201 Reading Notes - Foundations of Software Development
 
 - [Class 1 Notes](https://ryanb021.github.io/reading-notes/201/Read01.md)
 - [Class 2 Notes](https://ryanb021.github.io/reading-notes/201/Read02.md)
@@ -64,3 +64,7 @@ What growth mindset is to me no matter what challenges, circumstances, difficult
 - [Class 13 Notes](https://ryanb021.github.io/reading-notes/201/Read13.md)
 - [Class 14 Notes](https://ryanb021.github.io/reading-notes/201/Read14.md)
 - [Class 15 Notes](https://ryanb021.github.io/reading-notes/201/Read15.md)
+
+## Code 301 - Intermediate Software Development
+
+## Code 401 - Advanced Software Development
