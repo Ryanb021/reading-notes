@@ -69,6 +69,42 @@ Basically makes it easier for search engines to determine what your content is a
 
 The *META* tag defines metadata about an HTML document. *META* tags always go inside the *HEAD* element, and are typically used to specify character set, page description, keywords, author of the document, and viewport settings.
   
+
+## How to start to design a website [SOURCE](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Thinking_before_coding)
   
+*PROJECT IDEATION* is a necessary first step to reach your goal, whether you are a beginner or an experienced developer.
+  
+  
+## What exactly do I want to accomplish?
+  
+
+This is the most important question to answer, since it drives everything else. List all the goals you want to reach. It can be anything: selling goods to make money, expressing political opinions, meeting new friends, gigging with musicians, collecting cat pictures, or whatever you want.
+  
+  
+## Semantics in HTML [SOURCE](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
+  
+  
+*Why should you use an *h1* element over a *span* element to display a top level heading?*
+  
+the *h1* element is a semantic element, which gives the text it wraps around the role (or meaning) of "a top level heading on your page, while the *span* will render it to look like a top level heading, but it has no semantic value, so it will not get any extra benefits as described above. It is therefore a good idea to use the right HTML element for the right job.
+  
+  
+## Benefits from using Semantic tags in HTML: [SOURCE](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
+  
+  
+-Search engines will consider its contents as important keywords to influence the page's search rankings (see SEO)
+  
+-Screen readers can use it as a signpost to help visually impaired users navigate a page
+  
+-Finding blocks of meaningful code is significantly easier than searching through endless divs with or without semantic or namespaced classes
+  
+-Suggests to the developer the type of data that will be populated
+  
+-Semantic naming mirrors proper custom element/component naming
+  
+  
+*When approaching which markup to use, ask yourself, "What element(s) best describe/represent the data that I'm going to populate?" For example, is it a list of data?; ordered, unordered?; is it an article with sections and an aside of related information?; does it list out definitions?; is it a figure or image that needs a caption?; should it have a header and a footer in addition to the global site-wide header and footer?; etc.*
+  
+
 
 
