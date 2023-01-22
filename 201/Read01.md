@@ -33,7 +33,7 @@ In javascript , we can add a number and a number but if we try to add a number a
 
 In the following example, variables a,b,c and d are taken. For variable 'a', two numbers(5, 5) are added therefore it returned a  number(10). But in case of variable 'b' a string and a number ('5', 5) are added therefore, since a string is involved, we get the result as '55', which is a string. since strings are involved, Variables 'c' and 'd' also return a string as shown in the output.   
 
-##EXAMPLE
+## EXAMPLE
 
 <html>
 <body>
