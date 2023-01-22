@@ -36,34 +36,60 @@ In the following example, variables a,b,c and d are taken. For variable 'a', two
 ## EXAMPLE
 
 <html>
+  
 <body>
+  
 <script type="text/javascript">
+  
    var a = 5 + 5;
+  
    var b = "5" + 5;
+  
    var c = 5 + 5 + "5" + 5
+  
    var d = "Hello" + 5;
+  
    document.write(a + "<br>" + b + "<br>" + c + "</br>" + d);
+  
    document.write("</br>");
+  
    document.write(typeof(a));
+  
    document.write("</br>");
+  
    document.write(typeof(b));
+  
    document.write("</br>");
+  
    document.write(typeof(c));
+  
    document.write("</br>");
+  
    document.write(typeof(d));
+  
 </script>
+
 </body>
+
 </html>
+
 
 ## OUTPUT
 
 10
+
 55
+
 1055
+
 Hello5
+
 number
+
 string
+
 string
+
 string
 
 [SOURCE](https://www.tutorialspoint.com/how-to-add-a-number-and-a-string-in-javascript)
