@@ -31,67 +31,6 @@ As the browser builds the DOM tree and applies the styles from the CSSOM tree an
   
 In javascript , we can add a number and a number but if we try to add a number and a string then, as addition is not possible, 'concatenation' takes place.
 
-In the following example, variables a,b,c and d are taken. For variable 'a', two numbers(5, 5) are added therefore it returned a  number(10). But in case of variable 'b' a string and a number ('5', 5) are added therefore, since a string is involved, we get the result as '55', which is a string. since strings are involved, Variables 'c' and 'd' also return a string as shown in the output.   
-
-## EXAMPLE
-
-<html>
-  
-<body>
-  
-<script type="text/javascript">
-  
-   var a = 5 + 5;
-  
-   var b = "5" + 5;
-  
-   var c = 5 + 5 + "5" + 5
-  
-   var d = "Hello" + 5;
-  
-   document.write(a + "<br>" + b + "<br>" + c + "</br>" + d);
-  
-   document.write("</br>");
-  
-   document.write(typeof(a));
-  
-   document.write("</br>");
-  
-   document.write(typeof(b));
-  
-   document.write("</br>");
-  
-   document.write(typeof(c));
-  
-   document.write("</br>");
-  
-   document.write(typeof(d));
-  
-</script>
-
-</body>
-
-</html>
-
-
-## OUTPUT
-
-10
-
-55
-
-1055
-
-Hello5
-
-number
-
-string
-
-string
-
-string
-
 [SOURCE](https://www.tutorialspoint.com/how-to-add-a-number-and-a-string-in-javascript)
 
 
@@ -126,9 +65,9 @@ An HTML attribute is a piece of markup language used to adjust the behavior or d
 Basically makes it easier for search engines to determine what your content is about.
 
 
-## How is the <meta> HTML tag used when specifying metadata?
+## How is the meta HTML tag used when specifying metadata?
 
-The <meta> tag defines metadata about an HTML document. <meta> tags always go inside the <head> element, and are typically used to specify character set, page description, keywords, author of the document, and viewport settings.
+The *META* tag defines metadata about an HTML document. *META* tags always go inside the *HEAD* element, and are typically used to specify character set, page description, keywords, author of the document, and viewport settings.
   
   
 
