@@ -25,12 +25,15 @@ The sup tag is used to add a superscript text the HTML document. The sup tag def
 ## Ways we can apply CSS to HTML
 
 *External stylesheet*
+
 An external stylesheet contains CSS in a separate file with a .css extension. This is the most common and useful method of bringing CSS to a document. You can link a single CSS file to multiple web pages, styling all of them with the same CSS stylesheet.
 
 
 *Internal stylesheet*
+
 An internal stylesheet resides within an HTML document. To create an internal stylesheet, you place CSS inside a <style> element contained inside the HTML *head*. In some circumstances, internal stylesheets can be useful. For example, perhaps you're working with a content management system where you are blocked from modifying external CSS files. But for sites with more than one page, an internal stylesheet becomes a less efficient way of working. To apply uniform CSS styling to multiple pages using internal stylesheets, you must have an internal stylesheet in every web page that will use the styling. The efficiency penalty carries over to site maintenance too. With CSS in internal stylesheets, there is the risk that even one simple styling change may require edits to multiple web pages.
   
 *Inline styles*
+  
 Inline styles are CSS declarations that affect a single HTML element, contained within a style attribute.
 
