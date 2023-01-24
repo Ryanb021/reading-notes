@@ -70,6 +70,20 @@ This performs a test to see if two values are equal. It returns a true/false (Bo
 This returns the logically opposite value of what it precedes. It turns a true into a false, etc.. When it is used alongside the Equality operator, the negation operator tests whether two values are not equal using the symbols !, !==
 [Source](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
 
-
+#Examples of Comparison Operators
+  
+Strict equality ===
+  
+Strict-non-equality !==
+  
+Less than <
+  
+Greater than >
+  
+Less than or equal to <=
+  
+Greater than or equal to >=
+  
+## In Javascript we have the following conditional statements. Use *if* to specify a block of code to be excuted, if a specified condition is true. Use *else* to specify a block of code to be executed, if the same condition is false. Use *else if* to specify a new condition to test, if the first condtiion is false.
   
 
