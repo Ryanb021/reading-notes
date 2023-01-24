@@ -57,4 +57,19 @@ Add two numbers together or combine two strings using the + symbol.
   
 These do what you'd expect them to do in basic math using the symbols -, * , /
   
+*Assignment*
+  
+Assigns a value to a variable using the symbol =
+  
+*Strict Equality*
+  
+This performs a test to see if two values are equal. It returns a true/false (Boolean) result using the symbol ===
+
+*Not, Does-not-equal*
+  
+This returns the logically opposite value of what it precedes. It turns a true into a false, etc.. When it is used alongside the Equality operator, the negation operator tests whether two values are not equal using the symbols !, !==
+[Source](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
+
+
+  
 
