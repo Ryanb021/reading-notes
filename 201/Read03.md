@@ -71,4 +71,6 @@ Arrays are generally described as "list-like objects"; they are basically single
 
 If we didn't have arrays, we'd have to store every item in a separate variable, then call the code that does the printing and adding separately for each item. This would be much longer to write out, less efficient, and more error-prone. [Source](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Arrays)
 
-## Things
+## Things I want to know more about
+
+Get all these recorded in my head asap!
