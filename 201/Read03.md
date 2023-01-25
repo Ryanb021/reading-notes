@@ -33,7 +33,7 @@
 
 -The box will extend in the inline direction to fill the space available in its container. In most cases, the box will become as wide as its container, filling up 100% of the space available.
 
-Some HTML elements, such as <h1> and <p>, use block as their outer display type by default.
+Some HTML elements, such as *h1* and *p*, use block as their outer display type by default.
 
 *If a box has an outer display type of inline, then:*
 
