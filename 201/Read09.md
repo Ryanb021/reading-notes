@@ -39,3 +39,34 @@ The <button> element also accepts a type attribute — this accepts one of three
 A click on a submit button (the default value) sends the form's data to the web page defined by the action attribute of the <form> element.
 A click on a reset button resets all the form widgets to their default value immediately. From a UX point of view, this is considered bad practice, so you should avoid using this type of button unless you really have a good reason to include one.
 A click on a button button does nothing! That sounds silly, but it's amazingly useful for building custom buttons — you can define their chosen functionality with JavaScript.
+  
+## Events
+  
+Events are actions or occurrences that happen in the system you are programming, which the system tells you about so your code can react to them.
+
+For example, if the user clicks a button on a webpage, you might want to react to that action by displaying an information box. In this article, we discuss some important concepts surrounding events, and look at how they work in browsers.
+  
+## A series of fortunate events
+
+As mentioned above, events are actions or occurrences that happen in the system you are programming — the system produces (or "fires") a signal of some kind when an event occurs, and provides a mechanism by which an action can be automatically taken (that is, some code running) when the event occurs. Events are fired inside the browser window, and tend to be attached to a specific item that resides in it. This might be a single element, a set of elements, the HTML document loaded in the current tab, or the entire browser window. There are many different types of events that can occur.
+  
+For example:
+
+-The user selects, clicks, or hovers the cursor over a certain element.
+
+-The user chooses a key on the keyboard.
+
+-The user resizes or closes the browser window.
+
+-A web page finishes loading.
+  
+-A form is submitted.
+  
+-A video is played, paused, or ends.
+  
+-An error occurs.
+  
+-You can gather from this (and from glancing at the MDN event reference) that there are a lot of events that can be fired.
+  
+
+To react to an event, you attach an event handler to it. This is a block of code (usually a JavaScript function that you as a programmer create) that runs when the event fires. When such a block of code is defined to run in response to an event, we say we are registering an event handler. Note: Event handlers are sometimes called event listeners — they are pretty much interchangeable for our purposes, although strictly speaking, they work together. The listener listens out for the event happening, and the handler is the code that is run in response to it happening. [Source](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events)
