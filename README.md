@@ -37,34 +37,50 @@ What growth mindset is to me no matter what challenges, circumstances, difficult
 
 ## Code 102 Reading Notes - Intro to Software Development
 
-- [Class 1 Notes](https://ryanb021.github.io/reading-notes/102/Read01.md)
-- [Class 2 Notes](https://ryanb021.github.io/reading-notes/102/Read02.md)
-- [Class 3 Notes](https://ryanb021.github.io/reading-notes/102/Read03.md)
-- [Class 4 Notes](https://ryanb021.github.io/reading-notes/102/Read04.md)
-- [Class 5 Notes](https://ryanb021.github.io/reading-notes/102/Read05.md)
-- [Class 6 Notes](https://ryanb021.github.io/reading-notes/102/Read06.md)
-- [Class 7 Notes](https://ryanb021.github.io/reading-notes/102/Read07.md)
-- [Class 8 Notes](https://ryanb021.github.io/reading-notes/102/Read08.md)
+- [Class 1 Notes](https://github.com/Ryanb021/reading-notes/blob/main/102/Read01.md)
+- [Class 2 Notes](https://github.com/Ryanb021/reading-notes/blob/main/102/Read02.md)
+- [Class 3 Notes](https://github.com/Ryanb021/reading-notes/blob/main/102/Read03.md)
+- [Class 4 Notes](https://github.com/Ryanb021/reading-notes/blob/main/102/Read04.md)
+- [Class 5 Notes](https://github.com/Ryanb021/reading-notes/blob/main/102/Read05.md)
+- [Class 6 Notes](https://github.com/Ryanb021/reading-notes/blob/main/102/Read06.md)
+- [Class 7 Notes](https://github.com/Ryanb021/reading-notes/blob/main/102/Read07.md)
+- [Class 8 Notes](https://github.com/Ryanb021/reading-notes/blob/main/102/Read08.md)
 
 
 ## Code 201 Reading Notes - Foundations of Software Development
 
-- [Class 1 Notes](https://ryanb021.github.io/reading-notes/201/Read01.md)
-- [Class 2 Notes](https://ryanb021.github.io/reading-notes/201/Read02.md)
-- [Class 3 Notes](https://ryanb021.github.io/reading-notes/201/Read03.md)
-- [Class 4 Notes](https://ryanb021.github.io/reading-notes/201/Read04.md)
-- [Class 5 Notes](https://ryanb021.github.io/reading-notes/201/Read05.md)
-- [Class 6 Notes](https://ryanb021.github.io/reading-notes/201/Read06.md)
-- [Class 7 Notes](https://ryanb021.github.io/reading-notes/201/Read07.md)
-- [Class 8 Notes](https://ryanb021.github.io/reading-notes/201/Read08.md)
-- [Class 9 Notes](https://ryanb021.github.io/reading-notes/201/Read09.md)
-- [Class 10 Notes](https://ryanb021.github.io/reading-notes/201/Read10.md)
-- [Class 11 Notes](https://ryanb021.github.io/reading-notes/201/Read11.md)
-- [Class 12 Notes](https://ryanb021.github.io/reading-notes/201/Read12.md)
-- [Class 13 Notes](https://ryanb021.github.io/reading-notes/201/Read13.md)
-- [Class 14 Notes](https://ryanb021.github.io/reading-notes/201/Read14.md)
-- [Class 15 Notes](https://ryanb021.github.io/reading-notes/201/Read15.md)
+- [Class 1 Notes](https://github.com/Ryanb021/reading-notes/blob/main/201/Read01.md)
+- [Class 2 Notes](https://github.com/Ryanb021/reading-notes/blob/main/201/Read02.md)
+- [Class 3 Notes](https://github.com/Ryanb021/reading-notes/blob/main/201/Read03.md)
+- [Class 4 Notes](https://github.com/Ryanb021/reading-notes/blob/main/201/Read04.md)
+- [Class 5 Notes](https://github.com/Ryanb021/reading-notes/blob/main/201/Read05.md)
+- [Class 6 Notes](https://github.com/Ryanb021/reading-notes/blob/main/201/Read06.md)
+- [Class 7 Notes](https://github.com/Ryanb021/reading-notes/blob/main/201/Read07.md)
+- [Class 8 Notes](https://github.com/Ryanb021/reading-notes/blob/main/201/Read08.md)
+- [Class 9 Notes](https://github.com/Ryanb021/reading-notes/blob/main/201/Read09.md)
+- [Class 10 Notes](https://github.com/Ryanb021/reading-notes/blob/main/201/Read10.md)
+- [Class 11 Notes](https://github.com/Ryanb021/reading-notes/blob/main/201/Read11.md)
+- [Class 12 Notes](https://github.com/Ryanb021/reading-notes/blob/main/201/Read12.md)
+- [Class 13 Notes](https://github.com/Ryanb021/reading-notes/blob/main/201/Read13.md)
+- [Class 14 Notes](https://github.com/Ryanb021/reading-notes/blob/main/201/Read14.md)
+- [Class 15 Notes](https://github.com/Ryanb021/reading-notes/blob/main/201/Read15.md)
 
 ## Code 301 - Intermediate Software Development
+
+- [Class 1 Notes](https://github.com/Ryanb021/reading-notes/blob/main/301/Read01.md)
+- [Class 2 Notes](https://github.com/Ryanb021/reading-notes/blob/main/301/Read02.md)
+- [Class 3 Notes](https://github.com/Ryanb021/reading-notes/blob/main/301/Read03.md)
+- [Class 4 Notes](https://github.com/Ryanb021/reading-notes/blob/main/301/Read04.md)
+- [Class 5 Notes](https://github.com/Ryanb021/reading-notes/blob/main/301/Read05.md)
+- [Class 6 Notes](https://github.com/Ryanb021/reading-notes/blob/main/301/Read06.md)
+- [Class 7 Notes](https://github.com/Ryanb021/reading-notes/blob/main/301/Read07.md)5
+- [Class 8 Notes](https://github.com/Ryanb021/reading-notes/blob/main/301/Read08.md)
+- [Class 9 Notes](https://github.com/Ryanb021/reading-notes/blob/main/301/Read09.md)
+- [Class 10 Notes](https://github.com/Ryanb021/reading-notes/blob/main/301/Read10.md)
+- [Class 11 Notes](https://github.com/Ryanb021/reading-notes/blob/main/301/Read11.md)
+- [Class 12 Notes](https://github.com/Ryanb021/reading-notes/blob/main/301/Read12.md)
+- [Class 13 Notes](https://github.com/Ryanb021/reading-notes/blob/main/301/Read13.md)
+- [Class 14 Notes](https://github.com/Ryanb021/reading-notes/blob/main/301/Read14.md)
+- [Class 15 Notes](https://github.com/Ryanb021/reading-notes/blob/main/301/Read15.md)
 
 ## Code 401 - Advanced Software Development
