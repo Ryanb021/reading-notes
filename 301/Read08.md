@@ -8,7 +8,7 @@ Representational State Transfer
 
 ## REST APIs are designed around a ____.
 
-Resoure or resources which are any kind of object, data, or service that can be accessed by the client.
+Resource or resources which are any kind of object, data, or service that can be accessed by the client.
 
 ## What is an identifier of a resource? Give an example.
 
