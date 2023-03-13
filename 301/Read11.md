@@ -1,10 +1,10 @@
 # Read 11
 
-## MongoDB and Mongoose
+# MongoDB and Mongoose
 
-# 5 Differences between SQL and NoSQL databases
+## 5 Differences between SQL and NoSQL databases
 
-# SQL
+## SQL
 
 - SQL databases are primarily called as Relational Databases (RDBMS).
 
@@ -16,7 +16,7 @@
 
 - SQL databases uses SQL ( structured query language ) for defining and manipulating the data, which is very powerful.
 
-# NoSQL
+## NoSQL
 
 - NoSQL database are primarily called as non-relational or distributed database.
 
