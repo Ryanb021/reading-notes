@@ -73,7 +73,7 @@ What growth mindset is to me no matter what challenges, circumstances, difficult
 - [Class 4 Notes](https://github.com/Ryanb021/reading-notes/blob/main/301/Read04.md)
 - [Class 5 Notes](https://github.com/Ryanb021/reading-notes/blob/main/301/Read05.md)
 - [Class 6 Notes](https://github.com/Ryanb021/reading-notes/blob/main/301/Read06.md)
-- [Class 7 Notes](https://github.com/Ryanb021/reading-notes/blob/main/301/Read07.md)5
+- [Class 7 Notes](https://github.com/Ryanb021/reading-notes/blob/main/301/Read07.md)
 - [Class 8 Notes](https://github.com/Ryanb021/reading-notes/blob/main/301/Read08.md)
 - [Class 9 Notes](https://github.com/Ryanb021/reading-notes/blob/main/301/Read09.md)
 - [Class 10 Notes](https://github.com/Ryanb021/reading-notes/blob/main/301/Read10.md)
