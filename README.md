@@ -130,3 +130,5 @@ What growth mindset is to me no matter what challenges, circumstances, difficult
 - [Class 43 Notes](https://github.com/Ryanb021/reading-notes/blob/main/401/Read43.md)
 - [Class 44 Notes](https://github.com/Ryanb021/reading-notes/blob/main/401/Read44.md)
 - [Class 45 Notes](https://github.com/Ryanb021/reading-notes/blob/main/401/Read45.md)
+- [SQL](https://github.com/Ryanb021/reading-notes/blob/main/401/SQL.md)
+- [Terminal](https://github.com/Ryanb021/reading-notes/blob/main/401/Terminal.md)
