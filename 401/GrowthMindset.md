@@ -10,7 +10,7 @@
 
 ## Angela Lee Duckworth on Grit
 
-- The ability to learn is not fixed. It can change with your effort. We need to accept failure, we need to accept to be wrong in order to be successful. We need to be grittier. Follow through with our commitments or plans. This video was also amazing. It's not always about the talent, or IQ. You can be successful by being gittier than others. Never stop and keep pursuing your plans and dreams. It's for the long run, not the now.
+- The ability to learn is not fixed. It can change with your effort. We need to accept failure, we need to accept to be wrong in order to be successful. We need to be grittier. Follow through with our commitments or plans. This video was also amazing. It's not always about the talent, or IQ. You can be successful by being grittier than others. Never stop and keep pursuing your plans and dreams. It's for the long run, not the now.
 
 ## Alain de Botton on redefining success
 
