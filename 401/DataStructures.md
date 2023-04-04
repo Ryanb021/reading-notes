@@ -2,7 +2,7 @@
 
 ## What is 1 of the more important things you should consider when deciding which data structure is best suited to solve a particular problem?
 
--To make the best choice possible, we have to consider how the data structure will be used and how often.
+- To make the best choice possible, we have to consider how the data structure will be used and how often.
 
 ## How can we ensure that we’ll avoid an infinite recursive call stack?
 
