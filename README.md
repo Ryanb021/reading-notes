@@ -35,8 +35,11 @@ What growth mindset is to me no matter what challenges, circumstances, difficult
 
 ## Table of Contents
 
-## Code 102 Reading Notes - Intro to Software Development
-
+<details>
+  <summary>
+    ## Code 102 Reading Notes - Intro to Software Development
+  </summary>
+<br>
 - [Class 1 Notes](https://github.com/Ryanb021/reading-notes/blob/main/102/Read01.md)
 - [Class 2 Notes](https://github.com/Ryanb021/reading-notes/blob/main/102/Read02.md)
 - [Class 3 Notes](https://github.com/Ryanb021/reading-notes/blob/main/102/Read03.md)
@@ -45,7 +48,7 @@ What growth mindset is to me no matter what challenges, circumstances, difficult
 - [Class 6 Notes](https://github.com/Ryanb021/reading-notes/blob/main/102/Read06.md)
 - [Class 7 Notes](https://github.com/Ryanb021/reading-notes/blob/main/102/Read07.md)
 - [Class 8 Notes](https://github.com/Ryanb021/reading-notes/blob/main/102/Read08.md)
-
+</details>
 
 ## Code 201 Reading Notes - Foundations of Software Development
 
