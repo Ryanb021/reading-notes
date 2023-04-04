@@ -133,3 +133,5 @@ What growth mindset is to me no matter what challenges, circumstances, difficult
 - [SQL](https://github.com/Ryanb021/reading-notes/blob/main/401/SQL.md)
 - [Terminal](https://github.com/Ryanb021/reading-notes/blob/main/401/Terminal.md)
 - [Growth Mindset](https://github.com/Ryanb021/reading-notes/blob/main/401/GrowthMindset.md)
+- [Engineering Reading](https://github.com/Ryanb021/reading-notes/blob/main/401/Engineering.md)
+- [Data Structures and Algorithms](https://github.com/Ryanb021/reading-notes/blob/main/401/DataStructures.md)
