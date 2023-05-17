@@ -1,6 +1,6 @@
 # Read 33
 
-# <Login /> and <Auth />
+# Login and Auth
 
 ### What is Role Based Access Control (RBAC)?
 
